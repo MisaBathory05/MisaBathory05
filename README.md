@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bienvenidos a mi GitHub
 
-<!--
-**MisaBathory05/MisaBathory05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, Soy Tatiana, tengo 28 años, originaria de Colombia, soy Full Stack Web Developer y Asistente Administrativa.
+Disfruto de los desafíos, pues todos presentan varias formas creativas de resolverse, mi afinidad por plasmar ideas en realidad hacen que tenga una gran pasión por el Front-end.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,sequelize,postgres,bootstraps )](https://skillicons.dev)
+
+
+## Contacto
+
+¡Me encantaría conectarme contigo! Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/wenndy-tatiana-angulo-gonzález-14415125b) 🌐
+- [Email](mailto:tmisa05@gmail.com) 📧
+
+
+¡Gracias por visitar mi GitHub! 👋
